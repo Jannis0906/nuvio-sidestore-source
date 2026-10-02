@@ -1,8 +1,6 @@
 {
   "name": "Nuvio",
   "identifier": "com.jannis0906.nuvio-source",
-  "subtitle": "Nuvio for SideStore",
-  "description": "Unofficial SideStore source using official NuvioMedia release files.",
   "apps": [
     {
       "name": "Nuvio",
@@ -14,7 +12,6 @@
       "versions": [
         {
           "version": "0.5.4",
-          "buildVersion": "136",
           "date": "2026-09-28T09:23:38Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.4-beta/nuvio-0.5.4-full-release.ipa",
           "size": 66389579,
@@ -23,7 +20,6 @@
         },
         {
           "version": "0.5.3",
-          "buildVersion": "135",
           "date": "2026-09-27T01:18:47Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.3-beta/nuvio-0.5.3-full-release.ipa",
           "size": 66299682,
@@ -32,7 +28,6 @@
         },
         {
           "version": "0.5.2",
-          "buildVersion": "134",
           "date": "2026-09-25T18:03:57Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.2-beta/nuvio-0.5.2-full-release.ipa",
           "size": 66138236,
@@ -41,7 +36,6 @@
         },
         {
           "version": "0.5.1",
-          "buildVersion": "133",
           "date": "2026-09-23T06:37:37Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.1-beta/nuvio-0.5.1-full-release.ipa",
           "size": 66042992,
@@ -50,7 +44,6 @@
         },
         {
           "version": "0.5.0",
-          "buildVersion": "132",
           "date": "2026-09-22T10:10:10Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.5.0-beta/nuvio-0.5.0-full-release.ipa",
           "size": 66006978,
@@ -59,7 +52,6 @@
         },
         {
           "version": "0.4.26",
-          "buildVersion": "131",
           "date": "2026-09-21T09:49:45Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.26-beta/nuvio-0.4.26-full-release.ipa",
           "size": 65234840,
@@ -68,7 +60,6 @@
         },
         {
           "version": "0.4.25",
-          "buildVersion": "130",
           "date": "2026-09-19T15:15:17Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.25-beta/nuvio-0.4.25-full-release.ipa",
           "size": 65152407,
@@ -77,7 +68,6 @@
         },
         {
           "version": "0.4.24",
-          "buildVersion": "129",
           "date": "2026-09-18T16:34:38Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.24-beta/nuvio-0.4.24-full-release.ipa",
           "size": 51517735,
@@ -86,7 +76,6 @@
         },
         {
           "version": "0.4.23",
-          "buildVersion": "128",
           "date": "2026-09-17T09:40:44Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.23-beta/nuvio-0.4.23-full-release.ipa",
           "size": 51420909,
@@ -95,7 +84,6 @@
         },
         {
           "version": "0.4.22",
-          "buildVersion": "127",
           "date": "2026-09-16T11:00:33Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.22-beta/nuvio-0.4.22-full-release.ipa",
           "size": 51383038,
@@ -104,7 +92,6 @@
         },
         {
           "version": "0.4.21",
-          "buildVersion": "126",
           "date": "2026-09-15T10:29:28Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.21/nuvio-0.4.21-full-release.ipa",
           "size": 51231186,
@@ -113,7 +100,6 @@
         },
         {
           "version": "0.4.20",
-          "buildVersion": "125",
           "date": "2026-09-14T08:44:41Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.20/nuvio-0.4.20-full-release.ipa",
           "size": 51167786,
@@ -122,7 +108,6 @@
         },
         {
           "version": "0.4.19",
-          "buildVersion": "124",
           "date": "2026-09-13T19:40:06Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.19/nuvio-0.4.19-full-release.ipa",
           "size": 51091230,
@@ -131,7 +116,6 @@
         },
         {
           "version": "0.4.18",
-          "buildVersion": "123",
           "date": "2026-09-13T02:16:59Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.18/nuvio-0.4.18-full-release.ipa",
           "size": 51099484,
@@ -140,7 +124,6 @@
         },
         {
           "version": "0.4.17",
-          "buildVersion": "122",
           "date": "2026-09-12T01:48:34Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.17/nuvio-0.4.17-full-release.ipa",
           "size": 51022041,
@@ -149,7 +132,6 @@
         },
         {
           "version": "0.4.16",
-          "buildVersion": "121",
           "date": "2026-09-11T10:13:18Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.16/nuvio-0.4.16-full-release.ipa",
           "size": 51012561,
@@ -158,7 +140,6 @@
         },
         {
           "version": "0.4.15",
-          "buildVersion": "120",
           "date": "2026-09-09T13:41:42Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.15/nuvio-0.4.15-full-release.ipa",
           "size": 52822264,
@@ -167,7 +148,6 @@
         },
         {
           "version": "0.4.14",
-          "buildVersion": "118",
           "date": "2026-09-05T10:55:58Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.14/nuvio-0.4.14-full-release.ipa",
           "size": 51787331,
@@ -176,7 +156,6 @@
         },
         {
           "version": "0.4.13",
-          "buildVersion": "117",
           "date": "2026-08-30T19:02:51Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.13/nuvio-0.4.13-full-release.ipa",
           "size": 51726937,
@@ -185,7 +164,6 @@
         },
         {
           "version": "0.4.12",
-          "buildVersion": "116",
           "date": "2026-08-29T13:17:20Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.12/nuvio-0.4.12-full-release.ipa",
           "size": 51718448,
@@ -194,7 +172,6 @@
         },
         {
           "version": "0.4.11",
-          "buildVersion": "115",
           "date": "2026-08-26T09:40:11Z",
           "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.11/nuvio-0.4.11-full-release.ipa",
           "size": 51638510,
