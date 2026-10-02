@@ -13,9 +13,7 @@ SOURCE_FILE = Path("source.json")
 def fetch_json(url: str):
     req = urllib.request.Request(
         url,
-        headers={
-            "User-Agent": "nuvio-sidestore-source"
-        },
+        headers={"User-Agent": "nuvio-sidestore-source"},
     )
 
     with urllib.request.urlopen(req, timeout=30) as response:
@@ -25,7 +23,6 @@ def fetch_json(url: str):
 def main():
     store = fetch_json(NUVIO_STORE_URL)
 
-    # Nuvio's store.json already contains the iOS app metadata
     nuvio_app = store["apps"][0]
 
     versions = []
@@ -33,7 +30,6 @@ def main():
     for version in nuvio_app.get("versions", []):
         entry = {
             "version": version["version"],
-            "buildVersion": version["buildVersion"],
             "date": version["date"],
             "downloadURL": version["downloadURL"],
             "size": version["size"],
@@ -50,11 +46,6 @@ def main():
     source = {
         "name": "Nuvio",
         "identifier": "com.jannis0906.nuvio-source",
-        "subtitle": "Nuvio for SideStore",
-        "description": (
-            "Unofficial SideStore source using official "
-            "NuvioMedia release files."
-        ),
         "apps": [
             {
                 "name": nuvio_app["name"],
