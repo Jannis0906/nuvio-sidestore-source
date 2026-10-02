@@ -1,0 +1,7 @@
+{
+  "name": "Nuvio",
+  "identifier": "com.jannis0906.nuvio-source",
+  "subtitle": "Automatic Nuvio updates from official GitHub releases",
+  "description": "Unofficial SideStore source that points directly to official NuvioMedia releases.",
+  "apps": []
+}
